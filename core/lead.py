@@ -6,15 +6,14 @@
 def create_lead():
 	print "created lead succesfully"
 
-
 #update lead
 def update_lead():
 	print "lead updated succesfully"
 
 #delete lead
 def delete_lead();
-	print	"Deleted the lead succesfully"
+	print	"Lead deleted succesfully"
 
-#Access lead
-def access_lead();
-	print	"Access the lead"
+#View lead
+def view_lead();
+	print	"View the lead"
